@@ -1,5 +1,5 @@
 # Interactive Excel-Dashboard using slicers
 
-### Please download and review the Dashboard File.xlsx.
+* Please download and review the Dashboard File.xlsx.
 
 
